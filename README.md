@@ -5,8 +5,7 @@
     public void onPassTaskMainView(final List<Tasks> tasks) {
         new Handler(Looper.getMainLooper()).post(new Runnable() {
             @Override
-            public void run() {
-                //mainActivity.onViewTask(tasks);
+            public void run() {               
                 receiveDataRoomInterface.onDataReceive(tasks);
             }
         });
