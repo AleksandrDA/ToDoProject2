@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ToDo project</string>
+    <string name="settings_toolbar">Настройки</string>
+    <string name="searching_toolbar">Поиск</string>
+    <string name="menu_toolbar">Меню</string>
+    <string name="name_app">ToDo</string>
+    <string name="item_today">Сегодня</string>
+    <string name="navigation_drawer_open">Открыто</string>
+    <string name="navigation_drawer_close">Закрыто</string>
+    <string name="create_first_task">Нажмите +, чтобы создать задачу</string>
+    <string name="et_text_input">Введите название задачи</string>
+    <string name="title_main_toolbar">Задачи</string>
+    <string name="title_toolbar_task">Задача</string>
+    <string name="description">Описание:</string>
+    <string name="input_description">Введите описание</string>
+    <string name="term_implementation">Срок выполнения</string>
+    <string name="cb_stopwatch">Секундомер</string>
+    <string name="period_of_execution">Срок выполнения</string>
+    <string name="today">Сегодня</string>
+    <string name="reminders">Напоминания</string>
+    <string name="priority">Приоритет</string>
+    <string name="priority_4">Приоритет 4</string>
+    <string name="reminders_not">Нет напоминаний</string>
+    <string name="labels">Метки</string>
+    <string name="no_labels">Без меток</string>
+    <string name="comments">Комментарии</string>
+    <string name="no_comments">Нет комментариев</string>
+    <string name="launch_task">Запуск задачи</string>
+</resources>

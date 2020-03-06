@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_label_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\label_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_send_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\send_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_settings_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\settings_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_lable_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\lable_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_fab_image_round.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\fab_image_round.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\search_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_search_image.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\search_image.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_reminder.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\reminder.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_flag.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\flag.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_coordinator_main.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\coordinator_main.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reminder.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\reminder.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_settings_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\settings_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_search_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\search_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_label_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\label_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_settings_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\settings_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flag.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\flag.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fab_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\fab_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fab_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\fab_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comments_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\comments_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_search_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\search_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_calendar.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_send_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\send_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_item_today.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\item_today.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fab_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\fab_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_stopwatch.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\stopwatch.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launch_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\launch_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fab_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\fab_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_arrow_back.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\arrow_back.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main_navigation.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\menu\\menu_main_navigation.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_stopwatch.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\stopwatch.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fab_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\fab_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launch_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\launch_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_search_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\search_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_stopwatch.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\stopwatch.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_search_image_round.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\search_image_round.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\search_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_launch_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\menu\\menu_launch_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fab_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\fab_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_comments_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\comments_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_send_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\send_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\add_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_send_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\send_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_settings_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\settings_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\drawer_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_settings_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\settings_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fab_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\fab_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu_toolbar.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\menu\\main_menu_toolbar.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_reminder.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\reminder.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_item_menu_hamburger.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\item_menu_hamburger.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launch_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\launch_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fab_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\fab_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item_today.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\item_today.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow_back.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_fab_image.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\fab_image.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_coordinator_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\coordinator_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_settings_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\settings_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flag.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\flag.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_settings_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\settings_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_launch_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\launch_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_search_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\search_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fab_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\fab_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_calendar.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launch_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\launch_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_item_today.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\item_today.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_layout.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_item_today.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\item_today.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_comments_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\comments_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_search_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\search_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_back.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_settings_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\settings_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_settings_image_round.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\settings_image_round.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_back.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_reminder.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\reminder.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fab_image_drawable.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable\\fab_image_drawable.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\menu_task_menu_toolbar.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\menu\\task_menu_toolbar.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_search_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\search_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item_menu_hamburger.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\item_menu_hamburger.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_back.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_label_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\label_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_item_menu_hamburger.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\item_menu_hamburger.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_add.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\add.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_image_drawable.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable\\search_image_drawable.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_fast_add_task.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\fast_add_task.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flag.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\flag.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_settings_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\settings_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_image_drawable.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable\\settings_image_drawable.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_item_menu_hamburger.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\item_menu_hamburger.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_item_today.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\item_today.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_reminder.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-mdpi\\reminder.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_calendar.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-anydpi\\calendar.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recyclerview.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\layout\\item_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fab_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\fab_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_settings_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xhdpi\\settings_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_search_image.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-xxxhdpi\\search_image.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_settings_image.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\settings_image.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flag.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\flag.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_comments_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\comments_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_search_image_round.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-mdpi\\search_image_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stopwatch.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\stopwatch.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_label_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\label_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_item_menu_hamburger.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xhdpi\\item_menu_hamburger.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_send_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-hdpi\\send_task.png"
+    },
+    {
+        "merged": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_comments_task.png.flat",
+        "source": "C:\\ANDROID\\ToDoproject\\ToDoproject\\app\\src\\main\\res\\drawable-xxhdpi\\comments_task.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri Mar 06 10:50:44 EET 2020
+base.0=C\:\\ANDROID\\ToDoproject\\ToDoproject\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
