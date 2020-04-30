@@ -18,6 +18,6 @@ public interface FastTaskContract {
 
     interface Repository {
         void onSaveTaskDB(String nameTask);
-        //void onRepositoryPassTask(List<Tasks> tasks);
+        //List<Tasks> onRepositoryPassTask();
     }
 }

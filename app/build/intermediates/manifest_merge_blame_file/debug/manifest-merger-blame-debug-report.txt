@@ -17,7 +17,7 @@
 13        android:allowBackup="true"
 13-->C:\ANDROID\ToDoproject\ToDoproject\app\src\main\AndroidManifest.xml:6:9-35
 14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-14-->[androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
+14-->[androidx.core:core:1.1.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
 15        android:debuggable="true"
 16        android:icon="@mipmap/ic_launcher"
 16-->C:\ANDROID\ToDoproject\ToDoproject\app\src\main\AndroidManifest.xml:7:9-43
@@ -58,22 +58,22 @@
 34        </activity>
 35
 36        <service
-36-->[androidx.room:room-runtime:2.2.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\506caa28b677165d4f48f2ef316dda4b\room-runtime-2.2.3\AndroidManifest.xml:25:9-27:40
+36-->[androidx.room:room-runtime:2.2.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\8ba533e54290ad80fd7e024fda554618\room-runtime-2.2.3\AndroidManifest.xml:25:9-27:40
 37            android:name="androidx.room.MultiInstanceInvalidationService"
-37-->[androidx.room:room-runtime:2.2.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\506caa28b677165d4f48f2ef316dda4b\room-runtime-2.2.3\AndroidManifest.xml:26:13-74
+37-->[androidx.room:room-runtime:2.2.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\8ba533e54290ad80fd7e024fda554618\room-runtime-2.2.3\AndroidManifest.xml:26:13-74
 38            android:exported="false" />
-38-->[androidx.room:room-runtime:2.2.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\506caa28b677165d4f48f2ef316dda4b\room-runtime-2.2.3\AndroidManifest.xml:27:13-37
+38-->[androidx.room:room-runtime:2.2.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\8ba533e54290ad80fd7e024fda554618\room-runtime-2.2.3\AndroidManifest.xml:27:13-37
 39
 40        <provider
-40-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\133d3390c58c70ac7467dd72c7251bfe\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 41            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-41-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\133d3390c58c70ac7467dd72c7251bfe\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+41-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
 42            android:authorities="com.example.todoproject.lifecycle-process"
-42-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\133d3390c58c70ac7467dd72c7251bfe\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+42-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
 43            android:exported="false"
-43-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\133d3390c58c70ac7467dd72c7251bfe\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+43-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
 44            android:multiprocess="true" />
-44-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\133d3390c58c70ac7467dd72c7251bfe\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+44-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
 45    </application>
 46
 47    <uses-permission android:name="android.permission.INTERNET" />

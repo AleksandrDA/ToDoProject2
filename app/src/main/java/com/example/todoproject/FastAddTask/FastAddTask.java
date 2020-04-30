@@ -38,7 +38,7 @@ public class FastAddTask extends AppCompatActivity implements FastTaskContract.V
            ftPresenter = new FastTaskPresenter();
 
            /*// подключаемся к БД
-           SQLiteDatabas e db = dbHelper.getWritableDatabase();
+           SQLiteDatabase db = dbHelper.getWritableDatabase();
            // создаем объект для создания и управления версиями БД
            dbHelper = new DBHelper(this);*/
        }

@@ -10,7 +10,7 @@ public class Tasks {
     @PrimaryKey(autoGenerate = true)
     private long id;
 
-    private String taskName;
+    private String  taskName;
 
     //getters and setters
     public long getId() {

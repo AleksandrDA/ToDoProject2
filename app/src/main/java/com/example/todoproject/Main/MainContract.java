@@ -3,6 +3,7 @@ package com.example.todoproject.Main;
 import com.example.todoproject.DataBase.Room.Tasks;
 
 import java.util.List;
+import java.util.concurrent.ExecutionException;
 
 public interface MainContract {
 
@@ -11,10 +12,6 @@ public interface MainContract {
     }
 
     interface MainPresenter {
-        void onPassTaskMainView(List<Tasks> tasks);
-    }
-
-    interface ReceiveDataRoom {
-        void onDataReceive (List<Tasks> tasks);
+        void onPassTaskMainView() throws ExecutionException, InterruptedException;
     }
 }

@@ -23,16 +23,17 @@ import com.example.todoproject.R;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutionException;
 
 
-public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener, MainContract.MainView, MainContract.ReceiveDataRoom {
+public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener, MainContract.MainView, MainPresenter.OnTaskReceived {
 
     private static final String TAG = "myLogs";
-    MainPresenter mainPresenter;
     //List<Tasks> tasks = new ArrayList<>();
     //public RecyclerView.Adapter recyclerAdapter;
     //private RecyclerView.LayoutManager layoutManager;
     public List<Tasks> tasks;
+    private RecyclerView recyclerView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +41,17 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         setContentView(R.layout.drawer_layout);
 
         Toolbar menuToolbar = findViewById(R.id.toolbar_main);
+        recyclerView = findViewById(R.id.tasks_recycler_list);
+
+        /*MainPresenter mainPresenter = new MainPresenter(this);
+        try {
+            mainPresenter.onPassTaskMainView();
+        } catch (ExecutionException e) {
+            e.printStackTrace();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }*/
+
 
         setSupportActionBar(menuToolbar);
 
@@ -106,14 +118,17 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         Log.d(TAG,"onViewTask in class MainActivity" + tasks + Thread.currentThread().getName());
     }
 
-    @Override
-    public void onDataReceive(List<Tasks> tasks) {
-        /*RecyclerView recyclerTasks = findViewById(R.id.tasks_recycler_list);
-        mainPresenter = new MainPresenter(this);
-        RecyclerAdapter recyclerAdapter = new RecyclerAdapter(tasks);
-        recyclerTasks.setAdapter(recyclerAdapter);*/
 
-        Log.d(TAG,"onDataReceive in class MainActivity" + tasks + Thread.currentThread().getName());
+    @Override
+    public void onReceive(List<Tasks> tasks) throws ExecutionException, InterruptedException {
+        MainPresenter mainPresenter = new MainPresenter(this);
+        mainPresenter.onPassTaskMainView();
+
+        RecyclerAdapter adapter = new RecyclerAdapter(tasks);
+        recyclerView.setAdapter(adapter);
+
+        Log.d(TAG,"onReceive in class MainActivity" + tasks + Thread.currentThread().getName());
+
     }
 }
 

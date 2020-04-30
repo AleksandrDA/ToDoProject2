@@ -10,12 +10,6 @@ public class FastTaskPresenter implements FastTaskContract.Presenter {
 
     private static final String TAG = "myLogs";
     private FastTaskRepository dbTask;
-    private Context pContext;
-
-    //constructor
-   /* public FastTaskPresenter(Context context) {
-       this.pContext = context;
-    }*/
 
     //сохранение задачи
     @Override
